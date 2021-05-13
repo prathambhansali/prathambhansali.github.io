@@ -439,8 +439,23 @@ section{
 .skills .progress-bar-wrap{
     background:#f2f3f5
 }
-.skills img{
-    margin:10px
+@media only screen and (max-width:412px){
+    .skills img{
+        margin:10px;
+        max-width: 45px;
+    }
+}
+@media only screen and (min-width : 413px) and (max-width : 692px){
+    .skills img{
+        margin:10px;
+        max-width: 60px;
+    }
+}
+@media (min-width : 693px){
+    .skills img{
+        margin:10px;
+        max-width: 70px;
+    }
 }
 .skills .progress-bar{
     width:1px;
@@ -1000,4 +1015,8 @@ section{
 }
 #footer .credits{
     font-size:13px
+}
+.languages{
+    max-width: 100%; 
+    max-height: 100%;
 }
