@@ -1,0 +1,27 @@
+{
+    "background_color": "#ffffff",
+    "description": "Hi, I am Prathmesh Bhansali a Full Stack Developer, Data Science & Devops-Cloud Enthusiast and Blogger",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "prathmeshbhansali",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "prathmeshbhansali",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "categories": [],
+    "screenshots": [],
+    "icons": [
+      {
+        "src": "favicon.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "https://i.ibb.co/mDgWCZg/Prathemsh-Bhansali.png",
+        "type": "image/png",
+        "sizes": "640x360"
+      }
+    ],
+    "shortcuts": []
+  }
