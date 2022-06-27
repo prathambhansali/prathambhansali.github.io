@@ -1,2 +1,2 @@
-# pratham-10.github.io
+# prathambhansali.github.io
 Own Portfolio
